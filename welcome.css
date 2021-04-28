@@ -1,0 +1,100 @@
+body{
+	background:#EEEEEE;
+}
+
+table,
+th,
+td {
+  	border: 1px hidden #cecfd5;
+}
+
+th,
+td {
+  	padding: 10px 15px;
+  	font-family: cursive;
+	color:#666666;
+	font-size:x-large;
+}
+
+h1{
+	font-family: "Comic Sans MS";
+	font-size: 250%;
+	color:#333399;
+	text-align: center;
+}
+
+
+section{
+	height:400px;
+	width:30%;
+	display:inline-block;
+	float:left;
+	overflow:scroll;
+	text-align:center;
+	border:dotted 3px #CCCCCC;
+	border-radius:25px;
+	margin:0.5%;
+	padding:10px;
+}
+
+h2{
+	font-family:"Comic Sans MS";
+	color:#666699;
+	
+}
+
+h4{
+	font-family:Verdara;
+	font-style:italic;
+	color:#666666;
+}
+
+h6{
+	display:inline-block;
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#333366;
+	font-size:150%;
+	height:50px;
+	width:40%;
+	margin:0.5%;
+	padding:10px;
+	border:hidden 3px #CCCCCC;
+	border-radius:25px;
+	float:left;
+}
+h5{
+	display:inline-block;
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#333366;
+	font-size:150%;
+	height:40px;
+	width:10%;
+	margin:1.5%;
+	padding:10px;
+	border:ridge 3px #EEEEEE;
+	border-radius:25px;
+	clear:both;
+
+}
+
+h3{
+	display:inline-block;
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#333366;
+	font-size:150%;
+	height:40px;
+	width:40%;
+	border:hidden 3px #CCCCCC;
+	border-radius:25px;
+	float:right;
+}
+
+footer{
+	clear:both;
+	font-family:Verdara;
+	color:#999999;
+}
+

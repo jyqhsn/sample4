@@ -1,0 +1,25 @@
+body{
+	background-color:#EEEEEE;
+	
+}
+
+
+h1{
+	font-family: "Comic Sans MS";
+	font-size: 250%;
+	color:#333399;
+	text-align: center;
+}
+
+h2{
+	font-family:"Comic Sans MS";
+	font-size: 150%;
+	color:#666699;
+	text-align: left;
+}
+
+footer{
+	
+	font-family:Verdara;
+	color:#999999;
+}

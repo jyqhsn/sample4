@@ -1,0 +1,41 @@
+body{
+	background-color:#EEEEEE;
+	
+}
+
+
+h1{
+	font-family: "Comic Sans MS";
+	font-size: 250%;
+	color:#333399;
+	text-align: center;
+}
+
+h2{
+	font-family:"Comic Sans MS";
+	font-size: 150%;
+	color:#666699;
+	text-align: left;
+}
+
+details{
+	font-family: Verdana;
+	color:#666666;
+	font-style: italic;
+}
+
+summary{
+	font-style: normal;
+}
+
+
+p{
+	font-family: cursive;
+	color:#666666;
+	font-style: italic;
+}
+footer{
+	clear:both;
+	font-family:Verdara;
+	color:#999999;
+}
